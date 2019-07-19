@@ -1,6 +1,10 @@
-a=int(input("enter the value"))
+#sai.kalyan425@gmail.com
+a=int(input())
 if a>0:
     print("Positive")
-else:
+elif:
     print("Negative")
+else:
+    print("Zero")
+    
     
